@@ -14,7 +14,7 @@ This repository contains projects completed as part of the Google Cybersecurity 
    - Description: Utilizing Linux commands to manage file permissions, ensuring secure access control to files and directories.
 
 4. **SQL Query Filtering**
-   - Description: Applying filters to SQL queries to prevent SQL injection attacks and ensure secure database interactions.
+   - Description: Applied filters to SQL queries to get specific information on login attempts and employee machines.
 
 5. **Vulnerable System Analysis for Small Business**
    - Description: Analyzing a vulnerable system within a small business context, identifying weaknesses and proposing solutions to enhance security.
